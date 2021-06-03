@@ -5,7 +5,7 @@ body {
  background-position-x: center;
  background-position-y: top;
  background-repeat: no-repeat;
- background-size: cover; 
+ background-size: 100%; 
 }
 .contenu {
   width :1150px;
