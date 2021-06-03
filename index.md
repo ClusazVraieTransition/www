@@ -1,2 +1,4 @@
-test
-deuxieme test
+---
+layout: default
+title: Accueil
+---
