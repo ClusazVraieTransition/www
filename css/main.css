@@ -8,11 +8,11 @@
   right: 0;
   bottom: 0;
   z-index: 0;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .reste {
 background-size: cover;
-background-position: center center;
-background-repeat: no-repeat;
 transition: opacity .4s ease;
 }
