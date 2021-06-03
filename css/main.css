@@ -1,6 +1,12 @@
 body {
  font-family:arial, sans-serif;
 }
+.contenu {
+  width :1150px
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
 .bandeau {
   background-image: url("https://clusazvraietransition.github.io/www/images/clusaz.jpg");
   position: absolute;
