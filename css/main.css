@@ -1,5 +1,10 @@
 body {
  font-family: arial, sans-serif;
+ background-image: url("https://clusazvraietransition.github.io/www/images/clusaz.jpg");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
 }
 .contenu {
   width :1150px;
@@ -7,8 +12,8 @@ body {
   margin-left: auto;
   position: relative;
 }
+
 .bandeau {
-  background-image: url("https://clusazvraietransition.github.io/www/images/clusaz.jpg");
   position: absolute;
   width: 100%;
   height: 100%;
@@ -17,9 +22,9 @@ body {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  
+  
+  
 }
 
 .reste {
