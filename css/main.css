@@ -19,6 +19,9 @@ body {
 .reste {
 transition: opacity .4s ease;
 }
+.logo {
+  height: 120px;
+}
 .slogan {
   color: white;
   font-size: 56px;
