@@ -21,5 +21,7 @@ transition: opacity .4s ease;
 }
 .slogan {
   color: white;
-  
-}
+  font-size: 56px;
+  line-height: 64px;
+  font-weight: bold;
+ }
