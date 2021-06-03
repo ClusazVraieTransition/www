@@ -2,11 +2,10 @@ body {
  font-family: arial, sans-serif;
  background-color: white;
  background-image: url("/www/images/clusaz.png");
-  background-position: center center;
+ background-position-x: center;
+ background-position-y: top;
  background-repeat: no-repeat;
- background-size: cover;
- 
- 
+ background-size: cover; 
 }
 .contenu {
   width :1150px;
