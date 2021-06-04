@@ -28,4 +28,6 @@ body {
 }
 .video {
   height: 230px;
+ background-color: #02b494;
+ color: white;
 }
