@@ -1,11 +1,15 @@
 body {
  font-family: arial, sans-serif;
  background-color: white;
+ margin: 0;
+ padding: 0;
+}
  background-image: url("/www/images/clusaz.png");
  background-position-x: center;
  background-position-y: top;
  background-repeat: no-repeat;
  background-size: 100%; 
+ 
 }
 h1 {
   color: white;
