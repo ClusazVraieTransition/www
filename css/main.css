@@ -22,12 +22,17 @@ body {
   line-height: 64px;
   font-weight: bold;
   width: 900px;
+  margin-right: auto;
+  margin-left: auto;
  }
 .espace {
   height: 100px;
 }
 .video {
   height: 230px;
- background-color: #02b494;
- color: white;
+  background-color: #02b494;
+  color: white;
+  font-size: 56px;
+  line-height: 64px;
+  font-weight: bold;
 }
