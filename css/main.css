@@ -24,7 +24,7 @@ body {
   width: 600px;
  }
 .espace {
-  height: 100px;
+  height: 90px;
 }
 .video {
   height: 230px;
@@ -33,4 +33,7 @@ body {
   font-size: 56px;
   line-height: 64px;
   font-weight: bold;
+}
+.videopetitefonte {
+ font-size: 28px;
 }
