@@ -50,7 +50,9 @@ h4 {
  height:1100px;
 }
 .logo {
-  height: 150px;
+  height: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px
 }
 .slogan {
   width: 600px;
